@@ -1,7 +1,7 @@
 # Workshop 1: Pravljenje functioning Google Docs klona
 
 - **INTRO**: CRDTs 101 objasniti svrhu i odluku
-- Napisati ADR možda za odluke donešene u toku ove diskusije
+- Napisati ADR možda za odluke donešene u toku ove diskusije https://github.com/joelparkerhenderson/architecture-decision-record
 
 
 - Probamo da uklopimo sta nam treba za MVP Workshopa u spec:
