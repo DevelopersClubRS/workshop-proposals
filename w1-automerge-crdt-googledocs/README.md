@@ -1,5 +1,8 @@
 # Workshop 1: Pravljenje functioning Google Docs klona
 
+- **INTRO**: CRDTs 101 objasniti svrhu i odluku
+- Napisati ADR možda za odluke donešene u toku ove diskusije
+
 
 - Probamo da uklopimo sta nam treba za MVP Workshopa u spec:
    -   https://github.com/DevelopersClubRS/workshop-proposals/blob/workshop-automerge-crdt-google-docs/w1-automerge-crdt-googledocs/SPEC.md
